@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Login_and_Registration_Api": {
+    "LoginRegistrationApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
